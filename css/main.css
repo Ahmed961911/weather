@@ -1,0 +1,92 @@
+.my-nav
+{
+    background-color: #1E202B;
+}
+
+.my-btn
+{
+    height: 40px;
+    background-color: transparent;
+    color: white;
+    transition: 0.3s;
+}
+
+.my-btn:hover
+{
+    color: #09c;
+    border: #09c solid 2px !important;
+}
+.logo
+{
+    cursor: pointer;
+}
+.main-body
+{
+    background-image:linear-gradient(transparent 0% 54%,#1E202B 54% 100%),url(../Images/banner.png);
+    
+}
+.search-section
+{
+    background-color: #1E202B;
+}
+#searchCity
+{
+    background-color: transparent;
+}
+
+input
+{
+    color: #757575 !important;
+}
+input::placeholder {
+    color: #757575 !important;
+}
+.form-control:focus {
+    border-color: inherit;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+  }
+ .column
+ {
+    background-image: linear-gradient(#2D303D 0% 10%,#323544 10% 100%) ;
+    padding-bottom: 20px;
+    padding-top: 10px;
+
+ } 
+.column2
+{
+    padding-top: 10px;
+    background-image: linear-gradient(#222530 0% 10%,#262936 10% 100%);  
+}
+#temp
+{
+    font-size: 5.625rem;
+}
+
+.my-footer
+{
+    background-color: #262936;
+}
+.w-70
+{
+    width: 70%;
+}
+#email
+{
+    background-color: transparent;
+}
+
+.my-logo
+{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: #1E202B;
+    text-align: center;
+    transition: 0.4s;
+}
+.my-logo:hover
+{
+    background-color: #09c;
+    color: white !important;
+}

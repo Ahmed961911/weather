@@ -1,0 +1,97 @@
+.logo
+{
+    cursor: pointer;
+}
+.my-contact
+{
+    background-color: #1E202B;
+}
+#home2
+{
+cursor: pointer;
+transition: 0.3s;
+}
+#home2:hover
+{
+    text-decoration: underline;
+}
+.my-btn
+{
+    height: 40px;
+    background-color: transparent;
+    color: white;
+    transition: 0.3s;
+}
+
+.my-btn:hover
+{
+    color: #09c;
+    border: #09c solid 2px !important;
+}
+
+.home-contact
+{
+    background-color: #262936;
+}
+.c-info
+{
+    background-color:#262936 ;
+    min-height: 300px;
+}
+.top-65
+{
+    top: 65%;
+}
+.my-footer
+{
+    background-color: #262936;
+}
+.w-70
+{
+    width: 70%;
+}
+#email
+{
+    background-color: transparent;
+}
+
+.search-section
+{
+    background-color: #1E202B;
+}
+
+.my-logo
+{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: #1E202B;
+    text-align: center;
+    transition: 0.4s;
+}
+.my-logo:hover
+{
+    background-color: #09c;
+    color: white !important;
+}
+.my-input{
+    background-color: transparent;
+    border: #757575 1px solid;
+}
+
+input::placeholder {
+    color: #757575 !important;
+}
+textarea::placeholder {
+    color: #757575 !important;
+}
+
+.start-85
+{
+    left: 85%;
+}
+.form-control:focus {
+    border-color: inherit;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+  }
